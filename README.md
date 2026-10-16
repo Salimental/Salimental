@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**Salimental/Salimental** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# salimental 👋
 
-Here are some ideas to get you started:
+**Web Development · WordPress · Open Source**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building useful tools, web applications, and WordPress solutions.
+
+salimental is my development brand, focused on building projects, exploring technologies, and continuously improving through hands-on experience.
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** PHP, JavaScript, TypeScript, Python
+- **Web Development:** HTML, CSS, Node.js
+- **WordPress:** Theme and Plugin Development
+- **Systems:** Linux and Networking
+
+## 💻 What I Do
+
+- Develop WordPress themes and plugins
+- Build web applications and JavaScript tools
+- Experiment with different technologies
+- Learn through practical projects and exploration
+
+## 🔐 Other Interests
+
+- Open Source Software
+- Linux and Networking
+- Cybersecurity and Ethical Hacking
+
+## 🚀 Currently
+
+Learning, building, and exploring new technologies.
+
+---
+
+*Always learning, always building.*
